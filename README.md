@@ -2,10 +2,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcotriesdev&layout=compact)
 
 - 🔭 I’m currently working on Godot Engine for prototypes and game collabs.
--🌱 I’m currently learning C# basic and for networking.
-  --C++ for game and app programming.
-  --Python for networking and games.
-  --JS and HTML.
+- 🌱 I’m currently learning C# basic and for networking.
+    - C++ for game and app programming.
+    - Python for networking and games.
+    - JS and HTML.
 - 👯 I’m looking to collaborate on games. Mostly Raylib, Pygame and Godot.
 
 - 📫 How to reach me: [Mi Correo](mailto:marco.moscoso.ac@gmail.com)
