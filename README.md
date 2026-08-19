@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Godot Engine for prototypes and game collabs.
 - 🌱 I’m currently learning:
     - C# basic and for networking.
-    - C++ for game and app programming.
+    - C and C++ for game and app programming.
     - Python for networking and games.
     - JS and HTML.
 
