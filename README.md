@@ -14,8 +14,9 @@
 -⚡ Fun fact: I don't usually add music or sound FX to my games or apps, even though I'm a music producer.
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcotriesdev&show_icons=true&locale=en" alt="marcotriesdev" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcotriesdev&" alt="marcotriesdev" /></p>
 <!--
 **marcotriesdev/marcotriesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 **![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcotriesdev&layout=compact)
