@@ -15,6 +15,7 @@
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark)
 <!--
 **marcotriesdev/marcotriesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 **![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcotriesdev&layout=compact)
