@@ -14,7 +14,7 @@
 -⚡ Fun fact: I don't usually add music or sound FX to my games or apps, even though I'm a music producer.
 
 
-<img src="https://vercel.app" alt="Top Languages" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
 <!--
 **marcotriesdev/marcotriesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 **![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcotriesdev&layout=compact)
